@@ -1,0 +1,30 @@
+#ID{
+    text-align: center;
+    margin:400px 400px 400px 400px;
+    padding: 75px;
+    background-image: url(./image/pngtree-fantasy-blue-technology-background-design-backgroundcolorful-backgroundtechnology-backgroundfashion-image_70217.jpg);
+    background-repeat: no-repeat;
+    color:white;
+    height: 400px;
+    
+    background-color: blueviolet;
+}
+#w{
+    color:black;
+    height: 25px;
+}
+body{
+    background-color: yellowgreen;
+    font-size: 30px;
+}
+#sub{
+    color: rgb(89, 0, 255);
+    height: 35px;
+    width: 75px;
+}
+#result{
+    color: rgb(129, 250, 16);
+}
+#h{
+    color: black;height: 25px;
+}
