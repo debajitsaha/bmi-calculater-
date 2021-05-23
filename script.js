@@ -12,7 +12,7 @@ else if(bmi>=18.5&&bmi<=24.9)
     document.getElementById("result").innerHTML= "<b>"+"Normal Weight"+"<b>";
 }
 else if(bmi>=25&&bmi<29.9)
-{document.getElementById("result").innerHTML= "<b>"+"Underweight"+"<b>"
+{document.getElementById("result").innerHTML= "<b>"+"Overweight"+"<b>"
 }
 else if(bmi>=30.0&&bmi<=34.9)
 {document.getElementById("result").innerHTML= "<b>"+"Obese class I"+"<b>"
